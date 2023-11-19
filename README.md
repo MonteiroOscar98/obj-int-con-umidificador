@@ -39,9 +39,3 @@ O cerne do sistema é o sensor de umidade, que fornece feedback em tempo real ao
 <br>
 ![2](https://github.com/MonteiroOscar98/obj-int-con-umidificador/blob/main/Projeto%20Montagem.jpg)
 <br>
-Porém, essa é uma armadilha: as taxas de juros do rotativo estão entre as mais caras do mercado, dada a alta taxa de inadimplência (falta de cumprimento de uma obrigação). Por isso, mesmo em situações emergenciais, essa alternativa deve ser evitada.
-<br>
-<br>
-# Correlações:
-<br>
-Como podemos interpretar os valores que ρ pode assumir?
